@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejveer008
 - 👀 I’m interested in Web Design/Web Development
-- 🌱 I’m currently learning JavaScript,Java
+- 🌱 I’m currently learning JavaScript,React.js,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
