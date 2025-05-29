@@ -37,8 +37,8 @@ Got something in mind? Let’s make it happen.
 ### 📫 Connect with Me
 
 - 📧 Email: [tejveer.sf@gmail.com](mailto:tejveer.sf@gmail.com)
-- 💼 LinkedIn: *Coming Soon*
-- 💻 Portfolio: *In Progress*
+- 💼 LinkedIn: [https://www.linkedin.com/in/tejveer-singh-aa464423a/]
+- 💻 Portfolio: *In Progress* :[https://tejveer008.github.io/Portfolio/]
 
 ---
 
